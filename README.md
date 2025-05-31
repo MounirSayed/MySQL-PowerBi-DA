@@ -1,6 +1,6 @@
 # Some of my work by MySQL-Power-Bi-DA
 
-#                                                (walmart_sales Dataset)
+                                          #                                                (walmart_sales Dataset)
 ![Image](https://github.com/user-attachments/assets/d1c84d2f-95ab-4dbc-9937-5ac49c100d69)
 
 ![Image](https://github.com/user-attachments/assets/a3963d65-49d4-4973-ad92-3f74a6320d54)

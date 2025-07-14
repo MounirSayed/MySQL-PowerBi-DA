@@ -74,14 +74,3 @@ By analyzing trends, economic context, and store-level performance, this project
 
 ---
 
-
-
-
-
-
-
-                                                     (layoffs Dataset)
-![Image](https://github.com/user-attachments/assets/d1cc16cd-521f-49e7-93ec-47d746a406f8)
-
-![Image](https://github.com/user-attachments/assets/101bdd22-fd18-4003-a4ae-1fe456d277e8)
-

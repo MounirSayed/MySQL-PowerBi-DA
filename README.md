@@ -12,7 +12,7 @@ This project demonstrates an end-to-end data analysis workflow:
 ---
 
 ## 🟣 Dashboard 1: Weekly Sales Over Time
-![Weekly Sales Over Time](![Image](https://github.com/user-attachments/assets/a3963d65-49d4-4973-ad92-3f74a6320d54))
+[Weekly Sales Over Time](![Image](https://github.com/user-attachments/assets/a3963d65-49d4-4973-ad92-3f74a6320d54))
 
 - 📈 Stacked area chart showing weekly sales trends across stores (2010–2012)
 - 🏪 Interactive slicers for store range, date range, and holiday/non-holiday
@@ -21,7 +21,7 @@ This project demonstrates an end-to-end data analysis workflow:
 
 ---
 ## 🟣 Dashboard 2: Sales vs Economic Indicators
-![Sales vs Economic Indicators](![image](https://github.com/user-attachments/assets/5711200a-76b0-41d9-a76a-d606ad85b62f))
+[Sales vs Economic Indicators](![image](https://github.com/user-attachments/assets/5711200a-76b0-41d9-a76a-d606ad85b62f))
 
 - 📊 Top: Line chart comparing weekly sales vs average fuel price
 - 📉 Bottom: Line charts showing CPI and unemployment trends over time
@@ -31,7 +31,7 @@ This project demonstrates an end-to-end data analysis workflow:
 ---
 
 ## 🟣 Dashboard 3: Temperature & Store-Level Analysis
-![Sales vs Temperature & Store Analysis](![Image](https://github.com/user-attachments/assets/d1c84d2f-95ab-4dbc-9937-5ac49c100d69))
+[Sales vs Temperature & Store Analysis](![Image](https://github.com/user-attachments/assets/d1c84d2f-95ab-4dbc-9937-5ac49c100d69))
 
 - 🌡 Top: Line chart comparing weekly sales vs average temperature
 - 📊 Bottom-left: Bar chart showing average weekly sales by store

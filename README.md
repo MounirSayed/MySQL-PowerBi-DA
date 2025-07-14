@@ -1,10 +1,9 @@
 # Some of my work by MySQL-Power-Bi-DA
 
 # 📊 MySQL + Power BI Data Analysis Project
-
+# (walmart_sales Dataset)
 This project demonstrates an end-to-end data analysis workflow:
 - *Data Source:* MySQL database storing historical sales data and external factors (fuel price, temperature, CPI, unemployment, holiday flag)
-# (walmart_sales Dataset)
 - *Visualization Tool:* Power BI connected live to MySQL
 - *Goal:* Discover business insights, trends, and correlations to help data-driven decision-making
 

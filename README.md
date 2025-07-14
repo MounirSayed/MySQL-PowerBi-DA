@@ -1,6 +1,6 @@
 # Some of my work by MySQL-Power-Bi-DA
 
-(walmart_sales Dataset)
+# First Project (walmart_sales Dataset)
 
 # 📊 MySQL + Power BI Data Analysis Project
 
